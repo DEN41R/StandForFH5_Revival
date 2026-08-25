@@ -1,2 +1,2 @@
-# StandForFH5_Revival (Public Version)
-No source code 
+# StandForFH5_Revival (Github Build)
+мертвый проект как и весь код, чисто для playground.
